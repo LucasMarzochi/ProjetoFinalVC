@@ -1,0 +1,7 @@
+path: C:/Users/Pedro/.cache/kagglehub/datasets/muhammetzahitaydn/hardhat-vest-dataset-v3/versions/2
+train: images/train
+val: images/val
+test: images/test
+
+nc: 3
+names: [Helmet, Vest, Head]
